@@ -1,4 +1,4 @@
-<h1>Jogo da Forca - Projeto final Curso "Python: avançando na linguagem Python: avançando na linguagem" da <a href="https://cursos.alura.com.br/onboarding/content"> ALURA</a></h1>
+<h1>Jogo da Forca - Projeto final Curso "Python: avançando na linguagem" da <a href="https://cursos.alura.com.br/onboarding/content"> ALURA</a></h1>
 
 <div>
  <h3>✅Tecnologias Utilizadas no Projeto:</h3>
