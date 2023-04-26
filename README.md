@@ -14,5 +14,5 @@
   
  <div>
  <h3>🎓Certificado de Conclusão de Curso:</h3>
- <a href=" ">CERTIFICADO</a>
+ <a href="https://cursos.alura.com.br/certificate/a28dfba0-ec40-4e5f-ad13-6da5bfd1dbeb">CERTIFICADO</a>
  </div>
