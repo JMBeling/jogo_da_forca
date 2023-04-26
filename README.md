@@ -4,7 +4,7 @@
  <h3>✅Tecnologias Utilizadas no Projeto:</h3>
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm3.svg">
  </div>
  
  <div>
