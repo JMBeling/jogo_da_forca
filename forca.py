@@ -19,14 +19,15 @@ def jogar():
       marca_chute_correto(chute, letras_acertadas, palavra_secreta)
     else:
       erros =+ 1
-    enforcou = erros == 6
+
+    enforcou = erros == 7
     acertou = "_" not in letras_acertadas
     print(letras_acertadas)
+
   if(acertou):
     imprime_mensagem_vencedor()
   else:
-    imprime_mensagem_perdedor()
-
+    imprime_mensagem_perdedor(palavra_secreta)
 
 def imprime_mensagem_vencedor():
   print("Você Ganhou!")
